@@ -1,2 +1,2 @@
 # 🌱 Mongodb
-Вот несколько <a href="">MongoDB-запросов</a>, которые я использовал для изучения базы данных <a href="https://drive.google.com/drive/u/0/folders/1MC0AttnmlAmugifFlX3hG6pssYZDqpPB">Hogwarts</a>.
+Вот несколько <a href="https://docs.google.com/document/d/1UOSKsb6bBXkb9mgJeHJSHFUVnlfO9PFydnlKh0pAS44/edit?usp=sharing">MongoDB-запросов</a>, которые я использовал для изучения базы данных <a href="https://drive.google.com/drive/u/0/folders/1MC0AttnmlAmugifFlX3hG6pssYZDqpPB">Hogwarts</a>.
